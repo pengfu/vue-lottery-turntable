@@ -54,9 +54,6 @@
         sorryImg,
         lottery: null,
         turnplate: {
-//          oldrestaraunts: ["50M免费流量包", "10闪币", "谢谢参与", "5闪币", "10M免费流量包", "20M免费流量包", "20闪币 ", "30M免费流量包", "100M免费流量包", "2闪币"],
-//          restaraunts: ["50M免费流量包", "10闪币", "谢谢参与", "5闪币", "10M免费流量包", "20M免费流量包", "20闪币 ", "30M免费流量包", "100M免费流量包", "2闪币"].reverse(),				//大转盘奖品名称
-//          colors: ["#FFF4D6", "#FFFFFF", "#FFF4D6", "#FFFFFF", "#FFF4D6", "#FFFFFF", "#FFF4D6", "#FFFFFF", "#FFF4D6", "#FFFFFF"],
           outsideRadius: 192,			//大转盘外圆的半径
           textRadius: 155,				//大转盘奖品位置距离圆心的距离
           insideRadius: 68,			//大转盘内圆的半径
